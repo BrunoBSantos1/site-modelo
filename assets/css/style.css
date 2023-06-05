@@ -307,7 +307,7 @@ footer .widget_title_text {
     margin-top: 30px;
 }
 
-@media(max-width:600px){
+@media screen and (max-width:600px){
     .banner_headline {
         padding: 20px;
     }
